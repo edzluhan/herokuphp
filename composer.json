@@ -1,0 +1,13 @@
+{
+    "name": "eduardo/herokuphp",
+    "type": "project",
+    "require": {
+        "symfony/dotenv": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Eduardo Zluhan Samrsla",
+            "email": "ed.zluhan@gmail.com"
+        }
+    ]
+}

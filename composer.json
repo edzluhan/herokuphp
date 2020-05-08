@@ -2,7 +2,7 @@
     "name": "eduardo/herokuphp",
     "type": "project",
     "require": {
-        "symfony/dotenv": "^5.0"
+        "vlucas/phpdotenv": "^4.1"
     },
     "authors": [
         {
